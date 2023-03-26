@@ -16,6 +16,7 @@ Skills: Flutter / Dart  / Firebase / Oop / Data Structure / Algorithms
 <a href="https://twitter.com/waelorabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waelorabi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/waelorabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waelorabi" height="30" width="40" /></a>
 <a href="https://fb.com/waelorabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waelorabi" height="30" width="40" /></a>
+ <a href="https://instagram.com/waelorabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waelorabi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
