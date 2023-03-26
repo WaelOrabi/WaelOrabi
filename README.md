@@ -11,10 +11,6 @@ Skills: Flutter / Dart  / Firebase / Oop / Data Structure / Algorithms
 - 👯 I’m looking to collaborate on I'm looking forward to collaborating with ambitious people 
 - 💬 Ask me about Flutter , Dart , Firebase , oop , data structure , algorithms 
 - 📫 How to reach me:  You can shoot me an email at waelorabi267@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WaelOrabi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/WaelOrabi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/WaelOrabi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/WaelOrabi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/WaelOrabi)  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/waelorabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waelorabi" height="30" width="40" /></a>
