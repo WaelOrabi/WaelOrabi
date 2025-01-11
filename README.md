@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Wael
 #### I am a Software Engineer and a Asp.net Core Developer
-![I am a Software Engineer and a Developer of Flutter](https://th.bing.com/th/id/R.6b2a5ea41cf795e35979e0ebb52253ce?rik=Txp0%2f2%2fgfNcm2g&pid=ImgRaw&r=0){ width=400 height=100 }
-
+<img src="https://th.bing.com/th/id/R.6b2a5ea41cf795e35979e0ebb52253ce?rik=Txp0%2f2%2fgfNcm2g&pid=ImgRaw&r=0" alt="I am a Software Engineer and a Developer of Flutter" style="width: auto; height: 100px;">
 
 
 **Skills:** Flutter / Dart  / Firebase / OOP / Data Structure / Algorithms / .NET Core / C# / Blazor / HTML / CSS / JavaScript
