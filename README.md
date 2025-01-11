@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Wael
-#### I am a Software Engineer and a Developer of Flutter
+#### I am a Software Engineer and a Asp.net Core Developer
 ![I am a Software Engineer and a Developer of Flutter](https://miro.medium.com/v2/resize:fit:720/format:webp/0*EISGqRUUEp5cFxTy.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 **Skills:** Flutter / Dart  / Firebase / OOP / Data Structure / Algorithms / .NET Core / C# / Blazor / HTML / CSS / JavaScript
 
